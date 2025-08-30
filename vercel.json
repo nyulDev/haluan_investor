@@ -11,7 +11,7 @@
     "env": {
         "APP_ENV": "production",
         "APP_DEBUG": "true",
-        "APP_URL": "https://yourprojectdomain.com",
+        "APP_URL": "https://haluan-investor.vercel.app/",
         "APP_KEY=base64:KKaU2ktfS5chP5YB63fo1xUaLfKHB6LLyKh/YZ/Ret4=",
 
         "APP_CONFIG_CACHE": "/tmp/config.php",
